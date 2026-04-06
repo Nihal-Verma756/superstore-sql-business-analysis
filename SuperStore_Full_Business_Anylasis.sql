@@ -1,6 +1,6 @@
 -- =====================================================
 -- SUPERSTORE BUSINESS ANALYSIS PROJECT
--- Author: Your Name
+-- Author: Nihal Verma 
 -- Tool: MySQL
 -- =====================================================
 
